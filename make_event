@@ -1,0 +1,296 @@
+mkdir event
+cd event/
+touch clue
+mkdir 1
+mkdir 2
+mkdir 3
+mkdir 4
+mkdir 5
+
+cd 1/
+
+touch clue_1
+mkdir 1_1
+mkdir 2_1
+mkdir 3_1
+mkdir 4_1
+mkdir 5_1
+
+cd 1_1/
+
+touch clue_1_1
+mkdir 1_1_1
+mkdir 2_1_1
+mkdir 3_1_1
+
+cd 3_1_1/
+
+touch happy_event_1
+
+cd ../../
+
+cd 2_1/
+
+touch clue_2_1
+mkdir 1_2_1
+mkdir 2_2_1
+mkdir 3_2_1
+
+cd ../
+
+cd 3_1/
+
+touch clue_3_1
+mkdir 1_3_1
+mkdir 2_3_1
+mkdir 3_3_1
+
+cd ../
+
+cd 4_1/
+
+touch clue_4_1
+mkdir 1_4_1
+mkdir 2_4_1
+mkdir 3_4_1
+
+cd ../
+
+cd 5_1/
+
+touch clue_5_1
+mkdir 1_5_1
+mkdir 2_5_1
+mkdir 3_5_1
+
+cd ../../
+
+cd 2/
+
+touch clue_2
+mkdir 1_2
+mkdir 2_2
+mkdir 3_2
+mkdir 4_2
+mkdir 5_2
+
+cd 1_2/
+
+touch clue_1_2
+mkdir 1_1_2
+mkdir 2_1_2
+mkdir 3_1_2
+
+cd ../
+
+cd 2_2/
+
+touch clue_2_2
+mkdir 1_2_2
+mkdir 2_2_2
+mkdir 3_2_2
+
+cd ../
+
+cd 3_2/
+
+touch clue_3_2
+mkdir 1_3_2
+mkdir 2_3_2
+mkdir 3_3_2
+
+cd 3_3_2/
+
+touch happy_event_2
+
+cd ../../
+
+cd 4_2/
+
+touch clue_4_2
+mkdir 1_4_2
+mkdir 2_4_2
+mkdir 3_4_2
+
+cd ../
+
+cd 5_2/
+
+touch clue_5_2
+mkdir 1_5_2
+mkdir 2_5_2
+mkdir 3_5_2
+
+cd ../../
+
+cd 3/
+
+touch clue_3
+mkdir 1_3
+mkdir 2_3
+mkdir 3_3
+mkdir 4_3
+mkdir 5_3
+
+cd 1_3/
+
+touch clue_1_3
+mkdir 1_1_3
+mkdir 2_1_3
+mkdir 3_1_3
+
+cd ../
+
+cd 2_3/
+
+touch clue_2_3
+mkdir 1_2_3
+mkdir 2_2_3
+mkdir 3_2_3
+
+cd ../
+
+cd 3_3/
+
+touch clue_3_3
+mkdir 1_3_3
+mkdir 2_3_3
+mkdir 3_3_3
+
+cd ../
+
+cd 4_3/
+
+touch clue_4_3
+mkdir 1_4_3
+mkdir 2_4_3
+mkdir 3_4_3
+
+cd ../
+
+cd 5_3/
+
+touch clue_5_3
+mkdir 1_5_3
+mkdir 2_5_3
+mkdir 3_5_3
+
+cd ../../
+
+cd 4/
+
+touch clue_4
+mkdir 1_4
+mkdir 2_4
+mkdir 3_4
+mkdir 4_4
+mkdir 5_4
+
+cd 1_4/
+
+touch clue_1_4
+mkdir 1_1_4
+mkdir 2_1_4
+mkdir 3_1_4
+
+cd ../
+
+cd 2_4/
+
+touch clue_2_4
+mkdir 1_2_4
+mkdir 2_2_4
+mkdir 3_2_4
+
+cd ../
+
+cd 3_4/
+
+touch clue_3_4
+mkdir 1_3_4
+mkdir 2_3_4
+mkdir 3_3_4
+
+cd ../
+
+cd 4_4/
+
+touch clue_4_4
+mkdir 1_4_4
+mkdir 2_4_4
+mkdir 3_4_4
+
+cd ../
+
+cd 5_4/
+
+touch clue_5_4
+mkdir 1_5_4
+mkdir 2_5_4
+mkdir 3_5_4
+
+cd 3_5_4
+
+touch happy_event_3
+
+cd ../../../
+
+cd 5/
+
+touch clue_5
+mkdir 1_5
+mkdir 2_5
+mkdir 3_5
+mkdir 4_5
+mkdir 5_5
+
+cd 1_5/
+
+touch clue_1_5
+mkdir 1_1_5
+mkdir 2_1_5
+mkdir 3_1_5
+
+cd ../
+
+cd 2_5/
+
+touch clue_2_5
+mkdir 1_2_5
+mkdir 2_2_5
+mkdir 3_2_5
+
+cd ../
+
+cd 3_5/
+
+touch clue_3_5
+mkdir 1_3_5
+mkdir 2_3_5
+mkdir 3_3_5
+
+cd ../
+
+cd 4_5/
+
+touch clue_4_5
+mkdir 1_4_5
+mkdir 2_4_5
+mkdir 3_4_5
+
+cd ../
+
+cd 5_5/
+
+touch clue_5_5
+mkdir 1_5_5
+mkdir 2_5_5
+mkdir 3_5_5
+
+cd 3_5_5
+
+touch happy_event_4
+
+cd ../../../
+
+
